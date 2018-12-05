@@ -1,1 +1,1 @@
-# stripe-follow-along-dropdown
+# stripe follow along dropdown
